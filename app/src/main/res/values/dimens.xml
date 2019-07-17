@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_width_imageview">147dp</dimen>
+    <dimen name="layout_height_imageview">170dp</dimen>
+    <dimen name="layout_marginTop_imageview">30dp</dimen>
+    <dimen name="layout_marginTop_textview">30dp</dimen>
+    <dimen name="layout_marginTop_Button">30dp</dimen>
+    <dimen name="layout_marginTop_button1">100dp</dimen>
+</resources>

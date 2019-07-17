@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ALC 4.0 : Phase 1 Challenge</string>
+    <string name="about_alc">About ALC</string>
+    <string name="andela_about_page">https://andela.com/alc/</string>
+    <string name="error_loading_page">Cannot access page, Please reload</string>
+    <string name="track_android">Track : Android</string>
+</resources>
